@@ -17,3 +17,18 @@ folder. This allows me to keep track of old versions of my project, go back to p
 changes I have made over time. I use git commit -m "commit message" to save a snapshot to the .git folder
 
 
+# Git installation verification
+To check if Git is installed on your computer, you can use this command:
+- git --version
+
+# Git Configuration Commands
+After installing Git, you set up your identity using these commands:
+- git config --global user.email "youremail@example.com" this sets your email for commits
+- git config --global user.name "your_name" this sets your username for commits
+- git config --list this shows all saved Git settings
+
+
+# Git commands learned during Week 1
+- git init
+- git config --list
+- git add <file_name>
