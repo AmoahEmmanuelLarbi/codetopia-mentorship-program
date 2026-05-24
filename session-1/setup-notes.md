@@ -32,3 +32,6 @@ After installing Git, you set up your identity using these commands:
 - git init
 - git config --list
 - git add <file_name>
+- git add .
+- git diff --staged
+- git log --oneline
